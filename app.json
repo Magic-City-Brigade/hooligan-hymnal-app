@@ -25,7 +25,6 @@
     "ios": {
       "bundleIdentifier": "org.magiccitybrigade.app",
       "icon": "./assets/icon-ios.png",
-      "loadJSInBackgroundExperimental": true
     },
     "notification": {
       "icon": "./assets/notification.png",
